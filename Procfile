@@ -1,0 +1,1 @@
+web: gunicorn smortgageapp.wsgi --log-file -
